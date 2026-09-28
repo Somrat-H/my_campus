@@ -1,17 +1,40 @@
-# my_campus
+# MyCampus 
 
-A new Flutter project.
+MyCampus is a mobile application built with Flutter designed for college students to access academic routines, schedules, quizzes, performance analytics, video lectures, courses, and profile details.
+
+---
+
+## Features
+
+- Quick Access Dashboard: Grid navigation layout with user notifications.
+- Schedule and Calendar: View upcoming classes, room numbers, and daily routines.
+- Quizzes and Exams: Practice test tracking, duration limits, and scores.
+- Performance Analytics: Attendance tracking and academic performance metrics.
+- Video Lectures: Recorded lecture materials sorted by module and instructor.
+- Course Management: List of enrolled courses with codes and credit distributions.
+- Student Profile: Student identification details and account management.
+
+---
+
+## Tech Stack
+
+- Framework: Flutter
+- Language: Dart
+- State Management: Provider
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (v3.0.0 or higher)
+- Dart SDK
+- Android Studio or Visual Studio Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone 
+   cd my_campus

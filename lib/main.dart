@@ -18,7 +18,7 @@ void main() {
 }
 
 class MyCampusApp extends StatelessWidget {
-  const MyCampusApp({Key? key}) : super(key: key);
+  const MyCampusApp({super.key});
 
   @override
   Widget build(BuildContext context) {

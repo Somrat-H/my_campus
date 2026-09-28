@@ -36,5 +36,5 @@ MyCampus is a mobile application built with Flutter designed for college student
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Somrat-H/my_campus.git
    cd my_campus
